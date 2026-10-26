@@ -49,6 +49,8 @@
 
 MySQL-compatible · Embedded or Server · Hybrid Vector + Full-text Search · COW Sandbox
 
+OB-P:eKYIKR7PmtsLFfwR__Grmw
+
 ⚡ 1,523 QPS streaming write+search (10× Milvus, 3× Elasticsearch)<br>
 🌿 FORK/MERGE sandboxes for safe agent exploration<br>
 🔍 Vector + full-text + scalar in one SQL query<br>
